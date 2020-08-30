@@ -13,8 +13,13 @@
 
 [Firefox Store]()
 
-##Manual Install
-
+## Manual Install
+```sh
+    Donwnload Release
+    Navigate to about:debugging
+    Choose Load Temporary Add-on
+    Select the zip file
+```
 ## Author
 
 👤 **Samourai**
