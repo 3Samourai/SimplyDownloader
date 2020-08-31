@@ -30,6 +30,11 @@
 Give a ⭐️if this project helped you!
 
 ## Disclaimer
+You, the user, accept the full responsibility for the usage of
+this application, excluding the developer from any liability about
+any consequence that may derive. Thus, this application has to be
+considered as a mere technical service provider.
+
 SimplyDownloader is in no way affiliated with, authorized, maintained or endorsed by Youtube or any of its affiliates or subsidiaries. This is an independent and unofficial project. Use at your own risk.
 
 ***
