@@ -22,7 +22,7 @@
 ```
 ## Author
 
-👤 **Samourai**
+👤 **3Samourai**
 
 
 ## Show your support
