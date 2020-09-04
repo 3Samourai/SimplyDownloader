@@ -5,7 +5,7 @@
     "name": "Test",
     "version": "1.0",
     "icons": {
-      "48": "icons/icons1.png"
+      "48": "icons/icon1.png"
     },
   
     "permissions": [
