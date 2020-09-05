@@ -30,12 +30,8 @@
 Give a ⭐️if this project helped you!
 
 ## Disclaimer
-You, the user, accept the full responsibility for the usage of
-this application, excluding the developer from any liability about
-any consequence that may derive. Thus, this application has to be
-considered as a mere technical service provider.
-
-SimplyDownloader is in no way affiliated with, authorized, maintained or endorsed by Youtube or any of its affiliates or subsidiaries. This is an independent and unofficial project. Use at your own risk.
+This browser extension is unofficial and is not affiliated with Youtube.
+It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 ***
 _This README was generated with ❤ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
