@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to SimplyDownloader 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/amo/v/simplydownloader?style=plastic" />
   <a href="#" target="_blank">
     <img alt="License: GPLv3" src="https://img.shields.io/badge/License-GPLv3-yellow.svg" />
   </a>
