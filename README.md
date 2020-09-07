@@ -11,7 +11,7 @@
 
 ## Install
 
-[Firefox Store]()
+[Firefox Store](https://addons.mozilla.org/en-US/firefox/addon/simplydownloader/)
 
 ## Manual Install
 ```sh
