@@ -3,7 +3,7 @@
     "description": "Download Youtube Video",
     "manifest_version": 2,
     "name": "SimplyDownloader",
-    "version": "1.1",
+    "version": "1.2",
     "icons": {
       "48": "icons/icon1.png"
     },
