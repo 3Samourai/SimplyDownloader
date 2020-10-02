@@ -3,6 +3,8 @@
 <p>
   <img alt="Version" src="https://img.shields.io/amo/v/simplydownloader" />
   <a href="#" target="_blank">
+    <img alt="Star" src="https://img.shields.io/amo/stars/simplydownloader" />
+    <a herf="#" target="_blank">
     <img alt="License: GPLv3" src="https://img.shields.io/badge/License-GPLv3-yellow.svg" />
   </a>
 </p>
