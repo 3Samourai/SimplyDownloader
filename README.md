@@ -1,19 +1,11 @@
 
 <h1 align="center">Welcome to SimplyDownloader 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/amo/v/simplydownloader" />
-  <a href="#" target="_blank">
-    <img alt="Star" src="https://img.shields.io/amo/stars/simplydownloader" />
-    <a herf="#" target="_blank">
     <img alt="License: GPLv3" src="https://img.shields.io/badge/License-GPLv3-yellow.svg" />
   </a>
 </p>
 
 > A Simply Youtube Downloader
-
-## Install
-
-[Firefox Store](https://addons.mozilla.org/en-US/firefox/addon/simplydownloader/)
 
 ## Manual Install
 ```sh
